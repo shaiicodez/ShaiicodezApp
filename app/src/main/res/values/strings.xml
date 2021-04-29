@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shaiicodez App</string>
+
+    <string name="hello_this_is">Hello, This is</string>
+    <string name="shaiicodez">SHAIICODEZ</string>
+    <string name="tech_ser_blog">Tech Services &amp; Blog</string>
+    <string name="contact">Contact</string>
+    <string name="business_details">Business Details</string>
+    <string name="what_we_offer">What We Offer</string>
+    <string name="specialized_tech_mentoring_and_consultation_services_a_complete_cse_guide_for_beginners">Specialized Tech Mentoring and Consultation services. A complete CSE guide for beginners.</string>
+    <string name="remote">Remote</string>
+    <string name="location_icon">location icon</string>
+    <string name="www_shaiicodez_com">www.shaiicodez.com</string>
+    <string name="_24_7">24/7</string>
+
+    <!-- IMG DESC -->
+    <string name="shaiicodez_avatar">shaiicodez avatar</string>
+    <string name="_2021_shaiicodez_all_rights_reserved">© 2021 SHAIICODEZ. All rights reserved.</string>
+    <string name="what_s_included">What\'s included:</string>
+    <string name="details_services"><![CDATA[• Session preparation materials. \n
+    • Hour-long 1:1 mentoring session. \n
+    • Personalized advice. \n
+    • Career-oriented guidance. \n
+    • Executable action plan. ]]></string>
+
+</resources>
